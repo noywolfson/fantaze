@@ -10,6 +10,24 @@ Our football performances data was collected from API-Footabll (powered by rapid
 The application was developed using Python, React js and Java Script.
 The client-server communication is done by a Flask based HTTP server.
  
+## Getting Started
+
+1. Clone/Download the zip file from the Fantaze repository to your local computer
+2. Navigate on your terminal to the cloned repository directory
+3. Install node modules `npm install`.
+4. Install Python dependencies `npm install-requirements`
+5. Start development server `npm start`.
+6. Enter this URL - http://localhost:3000 to your web browser
+
+## Built with
+
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [React Router](https://reacttraining.com/react-router/) - A standard routing library for React, with powerful features like lazy code loading and dynamic route matching
+- [Python](https://www.python.org/) - Python is an interpreted, high-level, general-purpose programming language
+- [Flask](http://flask.pocoo.org/) - Lightweight WSGI web application framework
+- [MongoDB](https://www.mongodb.com/) - A document-based, distributed NoSQL database, built for modern application developers
+- [Material-UI](https://material-ui.com/) - A popular React UI framework 
+
 ## Screenshots
 
 ### Getting started page
@@ -23,14 +41,6 @@ The client-server communication is done by a Flask based HTTP server.
 
 ### Managing your preferences
 ![Managing your preferences](https://raw.githubusercontent.com/tomerkeizler/Fantasy/master/src/images/Fantaze_UI_4.png)
-
-## Getting Started
-
-1. Clone/Download the zip file from the Fantaze repository to your local computer
-2. Install node modules `npm install`.
-3. Install Python dependencies `npm install-requirements`
-4. Start development server `npm start`.
-5. Enter this URL - http://localhost:3000 to your web browser
 
 ## File Structure
 
@@ -56,14 +66,5 @@ The front-end is served on http://localhost:3000/ and the back-end on http://loc
 │ └── More locic directories
 └── README.md
 ```
-
-## Built with
-
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-- [React Router](https://reacttraining.com/react-router/) - A standard routing library for React, with powerful features like lazy code loading and dynamic route matching
-- [Python](https://www.python.org/) - Python is an interpreted, high-level, general-purpose programming language
-- [Flask](http://flask.pocoo.org/) - Lightweight WSGI web application framework
-- [MongoDB](https://www.mongodb.com/) - A document-based, distributed NoSQL database, built for modern application developers
-- [Material-UI](https://material-ui.com/) - A popular React UI framework
 
   This project was created using [Microsoft Web Template Studio](https://github.com/Microsoft/WebTemplateStudio).
